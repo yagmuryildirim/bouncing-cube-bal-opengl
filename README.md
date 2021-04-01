@@ -1,5 +1,5 @@
 # comp410-bouncingcube-ball
-Comp410 - Project 1
+Bouncing Cube and Ball animation using OpenGL and GLUT
 
 For this project, I implemented a basic graphics application of a bouncing cube and ball using shader based OpenGL and GLUT.
 There are 2 object types: a cube and a ball.
