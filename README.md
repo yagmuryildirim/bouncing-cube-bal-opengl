@@ -1,4 +1,4 @@
-# comp410-bouncingcube-ball
+# bouncing-cube-ball-opengl
 Bouncing Cube and Ball animation using OpenGL and GLUT
 
 For this project, I implemented a basic graphics application of a bouncing cube and ball using shader based OpenGL and GLUT.
